@@ -27,3 +27,21 @@ debian@debian11:~/netology/8-03$ git commit -m "zabbix_dz1"
 debian@debian11:~/netology/8-03$ git push origin
 
 ---
+### Задание 2
+
+1. `Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу`
+![zabbix_1](img/configuration_hosts.png)
+
+2. `Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером`
+![zabbix_2](img/log_raboti.png)
+
+3. `Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.`
+![zabbix_3](img/latest_data.png)
+![zabbix_4](img/grafik.png)
+
+---
+
+
+
+
+---
