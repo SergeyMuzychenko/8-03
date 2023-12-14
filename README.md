@@ -5,7 +5,7 @@
 ### Задание 1
 
 1. `Прикрепите в файл README.md скриншот авторизации в админке.`
-![zabbix_login](img/Screenshot from 2023-12-13 15-14-40.png)
+![zabbix_login](img/zabbix_login.png)
 
 2. `Приложите в файл README.md текст использованных команд в GitHub.`
 debian@debian11:~$ mkdir netology
