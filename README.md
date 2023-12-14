@@ -1,25 +1,29 @@
-# Домашнее задание к занятию "`8-03`" - `Музыченко Сергей`
+# Домашнее задание к занятию "`Zabbix 1`" - `Музыченко Сергей`
 
 ---
 
 ### Задание 1
 
-1. `Разверните GitLab локально, используя Vagrantfile и инструкцию, описанные в этом репозитории.`
-![1](img/1.png)
-2. `Создайте новый проект и пустой репозиторий в нём.`
-![2](img/2.png)
-3. `Зарегистрируйте gitlab-runner для этого проекта и запустите его в режиме Docker. Раннер можно регистрировать и запускать на той же виртуальной машине, на которой запущен GitLab.`
-![3](img/3.png)
+1. `Прикрепите в файл README.md скриншот авторизации в админке.`
+![zabbix_login](image/1.png)
 
+2. `Приложите в файл README.md текст использованных команд в GitHub.`
+debian@debian11:~$ mkdir netology
 
----
+debian@debian11:~$ cd netology/
 
-### Задание 2
+debian@debian11:~/netology$ git init
 
-1. `Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.`
-![4](img/4.png)
-2. `Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.`
-![5](img/5.png)
-![6](img/6.png)
-![7](img/7.png)
+debian@debian11:~/netology$ git clone https://github.com/SergeyMuzychenko/8-03
+
+debian@debian11:~/netology$ cd 8-03/
+
+debian@debian11:~/netology/8-03$ nano README.md 
+
+debian@debian11:~/netology/8-03$ git add .
+
+debian@debian11:~/netology/8-03$ git commit -m "zabbix_dz1"
+
+debian@debian11:~/netology/8-03$ git push origin
+
 ---
