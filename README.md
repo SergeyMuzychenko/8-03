@@ -18,7 +18,7 @@
 
 Ответ:
 
-![zabbix_1](img/configuration_hosts.png)
+![zabbix_2](img/zadanie1.png)
 
 ---
 ### Задание 2
@@ -55,11 +55,10 @@
 
 Ответ:
 
-![zabbix_4](img/grafik.png)
+![zabbix_2](img/zadanie2.png)
 
-![zabbix_4](img/grafik.png)
+![zabbix_2](img/zadanie3.png)
 
-![zabbix_4](img/grafik.png)
 
 ---
 
@@ -78,6 +77,6 @@
 
 Ответ:
 
-![zabbix_4](img/grafik.png)
+![zabbix_4](img/dashboard.png)
 
 ---
