@@ -10,9 +10,11 @@
 Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-![shema]([pic/shema.png)
-
 ![nastroiki](pic/nastroiki.png)
+
+![nastroiki](pic/nastroiki1.png)
+
+![nastroiki](pic/nastroiki2.png)
 
 ---
 
