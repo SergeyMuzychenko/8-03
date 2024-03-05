@@ -11,7 +11,7 @@
 Решение: 
 
 <img src = "img/img111.png" width = 100%>
-<img src = "img/img2.png" width = 100%>
+<img src = "img/img22.png" width = 100%>
 
 ---
 
