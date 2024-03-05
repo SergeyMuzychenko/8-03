@@ -26,7 +26,7 @@
 Решение: 
 <img src = "img/img44.png" width = 100%>
 <img src = "img/img5.png" width = 100%>
-<img src = "img/img6.png" width = 100%>
+
 ---
 
 ### Задание 3*. 
